@@ -1,0 +1,26 @@
+.heading{
+   position: relative;
+   left: 40%;
+   background-color: black;
+   color: white;
+   width: 150px;
+   text-align: center;
+}
+.counter{
+    position: absolute;
+    display: block;
+    text-align: center;
+    margin-top: 2px;
+    left: 42%;
+    width: 100px;
+    background-color: black;
+    color: white;
+
+}
+.img{
+    margin-top: 10%;
+    margin-left: 15%;
+}
+.hide{
+    visibility: hidden;
+}
